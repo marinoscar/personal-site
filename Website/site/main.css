@@ -12,6 +12,18 @@
         filter: alpha(opacity=0);
     }
 
-.space-50{
+.space-lg{
     padding-top:50px;
+}
+
+.space-sm{
+    padding-top:15px;
+}
+
+.space-md{
+    padding-top:25px;
+}
+
+.center-el{
+    margin: auto;
 }

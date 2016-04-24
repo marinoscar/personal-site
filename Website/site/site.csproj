@@ -77,6 +77,7 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="main.css" />
+    <Content Include="main.js" />
     <Content Include="Web.config" />
     <Content Include="website-xs-hq.png" />
   </ItemGroup>

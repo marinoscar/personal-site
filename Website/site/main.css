@@ -1,0 +1,17 @@
+﻿.circular {
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+    background: url(/website-xs-hq.png) no-repeat;
+}
+
+    .circular img {
+        opacity: 0;
+        filter: alpha(opacity=0);
+    }
+
+.space-50{
+    padding-top:50px;
+}
